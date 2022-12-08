@@ -3,9 +3,9 @@
 </p>
 <h1 align="center">厦门湖滨墙-每日一歌栏目 官方网站</h1>
 
-[常用资源](https://shimo.im/docs/MuiACIg1HlYfVxrj/)
-[GitHub](https://github.com/Snailclimb/docsify-demo)
-[开始阅读](#docsify-demo)
+[公共告示](#main)
+[主内容](https://github.com/Snailclimb/docsify-demo)
+[联系我们](http://wpa.qq.com/msgrd?v=3&uin=3079201190&site=qq&menu=yes)
 
 
 
